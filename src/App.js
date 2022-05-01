@@ -14,8 +14,8 @@ const App = () => {
         <Header />
         <div className="content">
           <Routes>
-            <Route path="/ranekProductAPI" element={<Produtos />} />
-            <Route path="produto/:id" element={<Produto />} />
+            <Route path="ranekProductAPI" element={<Produtos />} />
+            <Route path="ranekProductAPI/produto/:id" element={<Produto />} />
             <Route path="contato" element={<Contato />} />
           </Routes>
         </div>
