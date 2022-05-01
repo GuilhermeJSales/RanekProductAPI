@@ -1,0 +1,25 @@
+.contato{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.contato h1{
+  margin-bottom: 2rem;
+}
+
+
+.contato li{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.125rem;
+  margin-bottom:1rem;
+}
+
+.contato li::before{
+  content:'';
+  display:inline-block;
+  background:#ddd;
+  width: 20px;
+  height: 2px;
+  margin-right: 10px;
+}
