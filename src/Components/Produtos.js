@@ -13,7 +13,6 @@ const Produtos = () => {
 
   if (produtos === null) return null;
 
-  console.log(produtos);
   return (
     <section className={`${styles.produtos} animationLeft`}>
       <Head title="Ranek" description="descrição do site" />
