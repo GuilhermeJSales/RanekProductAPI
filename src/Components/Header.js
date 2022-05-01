@@ -7,7 +7,7 @@ const Header = () => {
     <nav className={styles.header}>
       <ul>
         <li>
-          <NavLink className={styles.link} to="/ranekProductAPI">
+          <NavLink className={styles.link} to="ranekProductAPI">
             Produtos
           </NavLink>
         </li>
