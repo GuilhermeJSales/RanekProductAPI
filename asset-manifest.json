@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ranekProductAPI/static/css/main.35597c91.css",
-    "main.js": "/ranekProductAPI/static/js/main.b0864ba8.js",
+    "main.js": "/ranekProductAPI/static/js/main.e2de962f.js",
     "static/media/contato.jpg": "/ranekProductAPI/static/media/contato.1bd9bf2dc50673043059.jpg",
     "index.html": "/ranekProductAPI/index.html",
     "main.35597c91.css.map": "/ranekProductAPI/static/css/main.35597c91.css.map",
-    "main.b0864ba8.js.map": "/ranekProductAPI/static/js/main.b0864ba8.js.map"
+    "main.e2de962f.js.map": "/ranekProductAPI/static/js/main.e2de962f.js.map"
   },
   "entrypoints": [
     "static/css/main.35597c91.css",
-    "static/js/main.b0864ba8.js"
+    "static/js/main.e2de962f.js"
   ]
 }
